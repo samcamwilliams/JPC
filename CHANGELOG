@@ -1,0 +1,3 @@
+3-1
+- Fixed jump-to-bottom bug.
+- Fixed refresh method to be safer, fixes the long playlist corruption problem and probably others too!
